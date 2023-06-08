@@ -1,0 +1,15 @@
+C:\Users\mahammadvm\Desktop\TestR\TestR\bin\Debug\TestR.dacpac
+C:\Users\mahammadvm\Desktop\TestR\TestR\bin\Debug\TestR.dll
+C:\Users\mahammadvm\Desktop\TestR\TestR\bin\Debug\TestR.pdb
+C:\Users\mahammadvm\Desktop\TestR\TestR\bin\Debug\TestLibrary.dll
+C:\Users\mahammadvm\Desktop\TestR\TestR\bin\Debug\TestLibrary.pdb
+C:\Users\mahammadvm\Desktop\TestR\TestR\obj\Debug\TestR.sqlproj.AssemblyReference.cache
+C:\Users\mahammadvm\Desktop\TestR\TestR\obj\Debug\TestR.sqlproj.CopyComplete
+C:\Users\mahammadvm\Desktop\TestR\TestR\obj\Debug\TestR.dll
+C:\Users\mahammadvm\Desktop\TestR\TestR\obj\Debug\TestR.pdb
+C:\Users\mahammadvm\Desktop\TestR\TestR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mahammadvm\Desktop\TestR\TestR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mahammadvm\Desktop\TestR\TestR\obj\Debug\Model.xml
+C:\Users\mahammadvm\Desktop\TestR\TestR\obj\Debug\refactor.xml
+C:\Users\mahammadvm\Desktop\TestR\TestR\obj\Debug\postdeploy.sql
+C:\Users\mahammadvm\Desktop\TestR\TestR\obj\Debug\predeploy.sql

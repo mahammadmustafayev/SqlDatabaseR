@@ -1,0 +1,22 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       [TestLibrary] (Assembly)
+     Create
+       [TestLibrary] (Assembly)
+       [dbo].[ReturnsPersonJson] (Function)
+
+** Supporting actions
+     Drop
+       [dbo].[ToToListCase] (Function)
+     Create
+       [dbo].[ToToListCase] (Function)

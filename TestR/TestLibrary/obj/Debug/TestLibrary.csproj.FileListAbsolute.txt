@@ -1,0 +1,9 @@
+C:\Users\mahammadvm\Desktop\TestR\TestLibrary\bin\Debug\TestLibrary.dll
+C:\Users\mahammadvm\Desktop\TestR\TestLibrary\bin\Debug\TestLibrary.pdb
+C:\Users\mahammadvm\Desktop\TestR\TestLibrary\obj\Debug\TestLibrary.csproj.AssemblyReference.cache
+C:\Users\mahammadvm\Desktop\TestR\TestLibrary\obj\Debug\TestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mahammadvm\Desktop\TestR\TestLibrary\obj\Debug\TestLibrary.dll
+C:\Users\mahammadvm\Desktop\TestR\TestLibrary\obj\Debug\TestLibrary.pdb
+C:\Users\mahammadvm\Desktop\TestR\TestLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mahammadvm\Desktop\TestR\TestLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mahammadvm\Desktop\TestR\TestLibrary\obj\Debug\TestLibrary.csproj.CopyComplete
